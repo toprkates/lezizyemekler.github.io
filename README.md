@@ -1,6 +1,8 @@
 # 🇹🇷 Turkiye Wide Flavours
 
-**Welcome to Turkiye Wide Flavours!**
+### Check out the website: https://toprkates.github.io/lezizyemekler.github.io/
+
+## **Welcome to Turkiye Wide Flavours!**
 
 The purpose of our platform is to provide users with delicious recipes from our country and to increase global awareness of Turkish cuisine. We place great importance on user satisfaction and visual appeal, ensuring a seamless and aesthetic experience. We have developed practical solutions for everyday cooking problems while adding extraordinary features to make exploring Anatolian flavors exciting.
 
